@@ -8,10 +8,6 @@
     "shodan.io": {
       "description": "More than 20,000 accounts from Shodan were compromised in 2017. Check leakfa to see if yours is at risk.",
       "relatedURL": "https://shodan.io/shodan"
-    },
-    "check-host.net": {
-      "description": "Example.com is a domain commonly used for illustration or testing purposes.",
-      "relatedURL": "https://check-host.net/check-http"
     }
   }
 }
